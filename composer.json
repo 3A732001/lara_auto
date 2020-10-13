@@ -1,0 +1,11 @@
+{
+    "name": "ncut/lara_auto2",
+    "description": "autoload",
+    "authors": [
+        {
+            "name": "chen dong meng",
+            "email": "3a732001@gm.student.ncut.edu.tw"
+        }
+    ],
+    "require": {}
+}
