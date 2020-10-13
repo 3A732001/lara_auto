@@ -4,10 +4,11 @@
 namespace Demo\Hello;
 
 
-class Somenoe
+class Someone
 {
     function __construct($name)
     {
         echo 'Hello '.$name.PHP_EOL."<br>";
     }
+
 }
